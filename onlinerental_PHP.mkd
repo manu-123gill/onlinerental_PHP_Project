@@ -13,3 +13,24 @@
 
 ### Summary Reports
 ![image](6.jpg.png)
+  ```sh
+ Manage applicants and tenants.
+Add, search and manage applications and leases.
+Manage applicants/tenants rental history, employment history and other references.
+Manage landlords, properties, and units.
+Reports (created by Summary Reports plugin for AppGini):
+Applicants by status review how many new applicants vs. tenants vs. previous tenants do we have.
+Applications/leases over time review the growth of leases and applications over time.
+Applications/leases by property review the growth of demand for each property over time.
+Leases by property over time review the growth of actual leases for each property over time.
+Lease value by property over time check the monthly rental revenue for each property and its growth over time.
+Efficient management of applications status through mass update of multiple applications.
+Quickly view leases starting and ending each month through a calendar view -- also allows adding and editing (created by Calendar plugin for AppGini).
+This application was created using AppGini, and therefore it shares the features of any AppGini application as well, including:
+
+Responsive Bootstrap apps that work beautifully on any device.
+Support for multiple users and user groups, with easy-to-configure per-table permissions.
+Quick and advanced search.
+Export your data to CSV to work on them in Excel or other spreadsheets.
+Import already-existing data from CSV files through a powerful import wizard.
+ ```
