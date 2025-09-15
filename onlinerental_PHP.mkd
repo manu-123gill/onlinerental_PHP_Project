@@ -52,3 +52,7 @@ Import already-existing data from CSV files through a powerful import wizard.
 ### Leases By Property Over Time 
 ![image](12.jpg.png)
 ![image](13.jpg.png)
+
+### Leases starting/ending
+
+![image](13.jpg.png)
