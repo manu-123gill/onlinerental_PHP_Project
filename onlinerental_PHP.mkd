@@ -37,4 +37,5 @@ Import already-existing data from CSV files through a powerful import wizard.
 ### Summary Reports
 ![image](6.jpg.png)
 
-
+### Applicants By Status
+![image](7.jpg.png)
