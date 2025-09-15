@@ -1,1 +1,20 @@
+# vuejs
 
+## When working with Vue.js, we can conveniently destructure object elements, just as we would in JavaScript. 
+```sh
+<script setup>
+const users = [
+  {
+    name: "John Doe",
+    id: "12345",
+    email: "john.doe@example.com",
+    age: 30
+  },
+  {
+    name: "Jane Smith",
+    id: "67890",
+    email: "jane.smith@example.com",
+    age: 25
+  }
+];
+</script>
