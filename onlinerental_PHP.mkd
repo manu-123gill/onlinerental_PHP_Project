@@ -56,3 +56,5 @@ Import already-existing data from CSV files through a powerful import wizard.
 ### Leases starting/ending
 
 ![image](14.jpg.png)
+
+# Assests/Setup
