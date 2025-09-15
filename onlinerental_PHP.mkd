@@ -38,4 +38,4 @@ Import already-existing data from CSV files through a powerful import wizard.
 ![image](6.jpg.png)
 
 ### Applicants By Status
-![image](7.jpg.png)
+![image](7.png.png)
