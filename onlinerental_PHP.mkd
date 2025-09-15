@@ -44,3 +44,8 @@ Import already-existing data from CSV files through a powerful import wizard.
 ![image](8.jpg.png)
 
 ![image](9.jpg.png)
+
+### Applications/Leases By Property
+![image](10.jpg.png)
+
+![image](11.jpg.png)
