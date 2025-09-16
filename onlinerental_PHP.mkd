@@ -60,3 +60,6 @@ Import already-existing data from CSV files through a powerful import wizard.
 # Assests/Setup
 ###  Landlords
 ![image](15.jpg.png)
+
+### Properties
+![image](17.jpg.png)
