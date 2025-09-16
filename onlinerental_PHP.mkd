@@ -62,4 +62,7 @@ Import already-existing data from CSV files through a powerful import wizard.
 ![image](15.jpg.png)
 
 ### Properties
+![image](16.jpg.png)
+
+### Units
 ![image](17.jpg.png)
