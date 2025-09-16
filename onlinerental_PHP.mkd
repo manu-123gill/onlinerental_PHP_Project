@@ -72,6 +72,6 @@ Import already-existing data from CSV files through a powerful import wizard.
 ![image](Member.jpg.png)
 
 ### Group
-![image](group.png.png)
+![image](group.png)
 ### Utilities
-![image](utilities.png.png)
+![image](utilities.png)
