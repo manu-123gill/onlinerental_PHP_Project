@@ -42,6 +42,8 @@
 
 ### If the username or password is incorrect, access will be denied.
 
+
+![image](1.jpg.png)
 # Dashboard
 ### After logging in, the dashboard is the first screen you see.
 ### It provides a quick and organized view of all the main sections of the Online Rental Property Manager (ORPM):
@@ -65,8 +67,6 @@
 
 # Leases Starting/Ending:
 ### See which leases are starting or ending each month in a calendar view for easy tracking.
-![image](1.jpg.png)
-
 ![image](2.jpg.png)
 ### Applicants and tenants
 ![image](3.jpg.png)
