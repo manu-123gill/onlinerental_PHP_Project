@@ -151,7 +151,16 @@
 ### Use filters and search to quickly find specific landlords.
 ![image](15.jpg.png)
 
-### Properties
+# Properties
+### The Properties section is used to manage all the rental properties owned by different landlords.
+### Add, edit, or delete property records.
+### Store important property details such as property type, number of units, owner name, address (street, city, state, zip).
+### View and link units, applications/leases, and property photos for each property.
+### Track which landlord owns each property.
+### Export property data as CSV or print reports.
+### Use filters and sorting to quickly find or organize properties.
+## Purpose:
+### This section helps you organize and track all properties, making it easy to manage ownership, location, and availability.
 ![image](16.jpg.png)
 
 ### Units
