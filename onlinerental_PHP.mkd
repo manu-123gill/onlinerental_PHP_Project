@@ -42,6 +42,29 @@
 
 ### If the username or password is incorrect, access will be denied.
 
+# Dashboard
+### After logging in, the dashboard is the first screen you see.
+### It provides a quick and organized view of all the main sections of the Online Rental Property Manager (ORPM):
+
+## Quick Search (Top Bar):
+### Instantly search for any applicant, tenant, property, lease, or application by name or keyword.
+
+# Main Menu (Blue Bar):
+### Allows you to navigate between different modules such as Leases, Properties, Assets/Setup, and more.
+
+# Modules on the Dashboard:
+
+# Applicants and Tenants:
+### View and manage all applicants and tenants, including their current status and details.
+
+# Applications/Leases:
+### Add or manage rental applications and approved leases for different units.
+
+# Summary Reports:
+### Access various reports to analyze applicant counts, lease growth, property demand, and rental revenue.
+
+# Leases Starting/Ending:
+### See which leases are starting or ending each month in a calendar view for easy tracking.
 ![image](1.jpg.png)
 
 ![image](2.jpg.png)
