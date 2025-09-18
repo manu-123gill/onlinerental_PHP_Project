@@ -188,9 +188,7 @@
 ![image](Adminlogin.png)
 # Member
 ### The Members section is a part of your web application used to manage user accounts. It displays a list of all users (members) who have registered on your system and allows administrators to view, search, edit, delete, activate, or ban those users.
-
 ![image](Member.jpg.png)
-
 ### Group
 ![image](group.png)
 ### Utilities
