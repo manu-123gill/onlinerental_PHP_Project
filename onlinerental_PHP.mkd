@@ -168,6 +168,7 @@
 ### This section helps you organize and monitor every rentable space inside your properties, so you can track availability, details, and rent for each unit efficiently.
 ![image](17.jpg.png)
 # ADMIN LOGIN
+### This is the main dashboard for administrators after logging into the ORPM system. It allows the admin to manage all user accounts and monitor recent system activity.
 ![image](Adminlogin.png)
 ### Member
 ![image](Member.jpg.png)
