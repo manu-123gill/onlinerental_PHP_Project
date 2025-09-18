@@ -169,8 +169,25 @@
 ![image](17.jpg.png)
 # ADMIN LOGIN
 ### This is the main dashboard for administrators after logging into the ORPM system. It allows the admin to manage all user accounts and monitor recent system activity.
+## Maintenance Mode
+### Option to enable or disable system-wide maintenance mode.
+## Newest Updates
+### Displays the most recent changes or updates in the system (like new leases, applications, or edits).
+### Shows important details such as lease type, rent amount, tenants involved, and comments.
+## Newest Entries
+### Lists the latest data entries added to the system (new leases, tenants, etc.).
+## Top Members
+### Shows members who have created or updated the most records in the system.
+## Members Stats
+### Gives an overview of user accounts, including:
+## Total groups
+## Active members
+### Members awaiting approval
+## Banned members
+## Total registered members
 ![image](Adminlogin.png)
 ### Member
+
 ![image](Member.jpg.png)
 
 ### Group
