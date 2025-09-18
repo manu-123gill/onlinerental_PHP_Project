@@ -141,7 +141,14 @@
 ![image](14.jpg.png)
 
 # Assests/Setup
-###  Landlords
+##  Landlords
+### The Landlords section is used to manage all the landlords who own rental properties listed in the system.
+### Add, edit, or delete landlord records.
+### Store detailed information like name, company name, contact numbers, email addresses, and comments.
+### Record landlord location details including country, city, state, street, and zip code.
+### Link each landlord to the properties they own and quickly view the number of properties.
+### Export landlord data as CSV or print reports for offline use.
+### Use filters and search to quickly find specific landlords.
 ![image](15.jpg.png)
 
 ### Properties
