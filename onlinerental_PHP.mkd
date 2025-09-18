@@ -38,7 +38,7 @@
 
 ### Enter the registered username in the username field.
 
-### Click the Login button to securely access your account.
+### Click the Signin button to securely access your account.
 
 ### If the username or password is incorrect, access will be denied.
 
