@@ -189,7 +189,13 @@
 # Member
 ### The Members section is a part of your web application used to manage user accounts. It displays a list of all users (members) who have registered on your system and allows administrators to view, search, edit, delete, activate, or ban those users.
 ![image](Member.jpg.png)
-### Group
+# Group
+### Groups are collections (or categories) of members that define what permissions and access each member has in the system.
+### They are used to organize users based on their roles, responsibilities, or privileges.
+## Each group has:
+### Group Name – The identifier for the group (e.g. Admins, User, anonymous).
+### Description – A short explanation of the group’s purpose (e.g. “Admin group created automatically…”).
+### Members Count – Shows how many users (members) currently belong to this group.
 ![image](group.png)
 ### Utilities
 ![image](utilities.png)
