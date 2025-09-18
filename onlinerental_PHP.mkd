@@ -34,6 +34,13 @@
 ### Lease value by property over time: Review monthly rental revenue and its growth
 
 # LOGIN
+## To access the Online Rental Property Manager (ORPM), users must log in using their username and password.
+
+### Enter the registered username in the username field.
+
+### Click the Login button to securely access your account.
+
+### If the username or password is incorrect, access will be denied.
 
 ![image](1.jpg.png)
 
