@@ -131,8 +131,13 @@
 ![image](12.jpg.png)
 ![image](13.jpg.png)
 
-### Leases starting/ending
-
+# Leases starting/ending
+### The Leases Starting/Ending section displays a calendar view of all leases that are about to start or end.
+### It helps you track lease timelines and plan upcoming tenant changes easily.
+### Shows lease start dates and end dates on a calendar.
+### You can view the schedule by month, week, day, or list view.
+### Helps avoid overlapping leases and manage property availability.
+### Provides a quick overview of which units will be vacant soon or newly occupied.
 ![image](14.jpg.png)
 
 # Assests/Setup
