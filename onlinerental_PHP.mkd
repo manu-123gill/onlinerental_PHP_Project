@@ -98,7 +98,21 @@
 ### Monthly rent and other lease-related information
 ![image](4.jpg.png)
 
-### Summary Reports
+# Summary Reports
+### The Summary Reports section provides quick visual reports and analysis of applicants, applications, and leases.
+### It helps track overall performance and trends in the rental system.
+
+## Available Reports:
+
+### Applicants By Status – Shows the total number of applicants grouped by their current status (e.g. Applicant or Tenant).
+
+### Applications/Leases Over Time – Displays how many applications and leases were created over a selected time period.
+
+### Applications/Leases By Property – Shows how many applications or leases are linked to each property.
+
+### Leases By Property Over Time – Tracks how leases are distributed across different properties over time.
+
+### Lease Value By Property Over Time – Shows the total lease amount/value for each property over a period of time.
 ![image](6.jpg.png)
 
 ### Applicants By Status
