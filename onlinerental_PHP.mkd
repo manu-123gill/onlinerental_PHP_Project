@@ -2,7 +2,7 @@
 #### Online Rental Property Manager (ORPM) is a web-based application designed to manage landlords, rental properties, units, applications, leases, and tenants in one place.
 
 # Features
-  ```sh
+
 # Applicant & Tenant Management
 
 ## Manage applicants and tenants in one place
@@ -11,28 +11,28 @@
 
 # Applications & Leases
 
-Add, search, and manage rental applications and leases
+## Add, search, and manage rental applications and leases
 
-Efficiently update the status of multiple applications at once
+## Efficiently update the status of multiple applications at once
 
-View leases starting and ending each month through a calendar view (add/edit directly from calendar)
+## View leases starting and ending each month through a calendar view (add/edit directly from calendar)
 
-Property & Landlord Management
+# Property & Landlord Management
 
-Manage landlords, rental properties, and individual units
+## Manage landlords, rental properties, and individual units
 
-Reports & Insights
+# Reports & Insights
 
-Applicants by status: See counts of new applicants, active tenants, and previous tenants
+## Applicants by status: See counts of new applicants, active tenants, and previous tenants
 
-Applications/leases over time: Track the growth of applications and leases
+## Applications/leases over time: Track the growth of applications and leases
 
-Applications/leases by property: Monitor demand for each property over time
+## Applications/leases by property: Monitor demand for each property over time
 
-Leases by property over time: Track the number of active leases per property
+## Leases by property over time: Track the number of active leases per property
 
-Lease value by property over time: Review monthly rental revenue and its growth
- ```
+## Lease value by property over time: Review monthly rental revenue and its growth
+
 ### LOGIN
 
 ![image](1.jpg.png)
