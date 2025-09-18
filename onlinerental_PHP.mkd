@@ -165,6 +165,7 @@
 
 # Units
 ### The Units section is used to manage the individual rental spaces (like flats, apartments, offices, or shops) inside each property.
+### This section helps you organize and monitor every rentable space inside your properties, so you can track availability, details, and rent for each unit efficiently.
 ![image](17.jpg.png)
 # ADMIN LOGIN
 ![image](Adminlogin.png)
