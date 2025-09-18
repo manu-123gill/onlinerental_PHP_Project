@@ -163,7 +163,8 @@
 ### This section helps you organize and track all properties, making it easy to manage ownership, location, and availability.
 ![image](16.jpg.png)
 
-### Units
+# Units
+### The Units section is used to manage the individual rental spaces (like flats, apartments, offices, or shops) inside each property.
 ![image](17.jpg.png)
 # ADMIN LOGIN
 ![image](Adminlogin.png)
