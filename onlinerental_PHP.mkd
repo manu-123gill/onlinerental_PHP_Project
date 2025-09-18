@@ -67,7 +67,7 @@ Import already-existing data from CSV files through a powerful import wizard.
 ### Units
 ![image](17.jpg.png)
 # ADMIN LOGIN
-![image](Adminlogin.jpg.png)
+![image](Adminlogin.png)
 ### Member
 ![image](Member.jpg.png)
 
