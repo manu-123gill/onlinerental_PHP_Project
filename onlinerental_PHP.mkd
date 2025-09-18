@@ -180,11 +180,11 @@
 ### Shows members who have created or updated the most records in the system.
 ## Members Stats
 ### Gives an overview of user accounts, including:
-## Total groups
-## Active members
+### Total groups
+### Active members
 ### Members awaiting approval
-## Banned members
-## Total registered members
+### Banned members
+### Total registered members
 ![image](Adminlogin.png)
 ### Member
 
