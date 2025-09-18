@@ -81,7 +81,21 @@
 ### Show All: Reset filters and display all records
 ![image](3.jpg.png)
 
-### Applications/Leases
+# Applications/Leases
+### This section displays all rental applications submitted by applicants and the leases created from approved applications.
+### It allows you to:
+
+### View important details such as:
+
+### Applicant name and contact information
+
+### Property and unit applied for
+
+### Application status (Application, Lease, or Historical Lease)
+
+### Lease type, lease period, and total occupants
+
+### Monthly rent and other lease-related information
 ![image](4.jpg.png)
 
 ### Summary Reports
