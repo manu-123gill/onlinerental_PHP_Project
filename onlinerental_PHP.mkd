@@ -68,7 +68,17 @@
 # Leases Starting/Ending:
 ### See which leases are starting or ending each month in a calendar view for easy tracking.
 ![image](2.jpg.png)
-### Applicants and tenants
+# Applicants and tenants
+### This page helps you manage and track every applicant or tenant from one place, making it easy to review their personal and financial details before approving or updating their status.
+### Add New: Create a new applicant or tenant record
+
+### Print Preview: View and print the list
+
+### Save CSV: Export the list to a CSV file
+
+### Filter: Search and filter specific records
+
+### Show All: Reset filters and display all records
 ![image](3.jpg.png)
 
 ### Applications/Leases
