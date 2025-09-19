@@ -200,3 +200,32 @@
 ### Utilities
 ![image](utilities.png)
 ### Utilities are special tools provided in the system to keep it running smoothly, fix issues, and perform maintenance tasks.
+## Rebuild Thumbnails
+### Regenerates image thumbnails if they are missing or broken.
+
+## Mail All Users
+### Send an email message to all registered members in the system.
+
+## Server Status
+### Shows details about the server environment (PHP version, memory, disk space, etc.) to check system health.
+
+## App Documentation
+### Opens the built-in user guide/help files about how to use the application.
+
+## Translation Tool
+### Lets you edit and manage language files to translate or customize the text labels in the app.
+
+## Batch Transfer of Ownership
+### Allows you to change the owner of multiple data records from one user to another at once.
+
+## View Rebuild Fields
+### Updates and synchronizes database fields with your app’s configuration if anything is out of sync.
+
+## Database Backup
+### Creates a backup copy of your database for safety and recovery.
+
+## Import CSV Data
+### Uploads CSV files to import large amounts of data into your database.
+
+## Query Logs
+### Shows logs of database queries to monitor activity or debug issues.
