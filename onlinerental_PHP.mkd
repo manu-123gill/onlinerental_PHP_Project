@@ -1,11 +1,11 @@
 # Online Rental Property Manager (ORPM)
-#### Online Rental Property Manager (ORPM) is a web-based application designed to manage landlords, rental properties, units, applications, leases, and tenants in one place.
+#### Online Rental Property Manager (ORPM) is a web-based application designed to manage landlords, rental properties, units, applications, leases, and tenants.
 
 # Features
 
 # Applicant & Tenant Management
 
-### Manage applicants and tenants in one place
+### Manage applicants and tenants.
 
 ### Track rental history, employment history, and references
 
