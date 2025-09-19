@@ -199,3 +199,4 @@
 ![image](group.png)
 ### Utilities
 ![image](utilities.png)
+### Utilities are special tools provided in the system to keep it running smoothly, fix issues, and perform maintenance tasks.
